@@ -31,7 +31,7 @@ This project focuses on developing and comparing different time series models to
 
 ## How it looks
 
-![Screenshot](CO2.png)
+![CO2](CO2.png)
 
 ## Conclusion
 
