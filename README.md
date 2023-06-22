@@ -24,18 +24,14 @@ This project focuses on developing and comparing different time series models to
 
 1. Install the required dependencies listed in the `requirements.txt` file.
 2. Run the Streamlit application and localtunnelusing the following command:
-   ```
-  !streamlit run co2_forecasting_app.py & npx localtunnel --port 8501 
-   ```
+!streamlit run co2_forecasting_app.py & npx localtunnel --port 8501 
 3. Access the application in your web browser at `http://localhost:8501`.
-
 4. Select the desired range of years for CO2 emission prediction.
-
 5. The application will display the predicted CO2 levels based on the chosen model.
 
 ## How it looks
 
-<img width="495" alt="image" src="https://github.com/Geram4305/EcoTrendPredictor/assets/91190611/25c7ad45-c87b-4554-8d9a-adf8a721803d">
+![Screenshot](CO2.png)
 
 ## Conclusion
 
