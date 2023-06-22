@@ -15,7 +15,7 @@ This project focuses on developing and comparing different time series models to
 
 ## Development Process
 
-1. Data Preprocessing: The dataset is prepared by handling missing values, converting the Date variable into a proper format, and ensuring data quality.
+1. Data Preprocessing: The dataset is prepared by converting the Date variable into a proper format, and ensuring data quality.
 
 2. Model Development: Each time series model is implemented and trained on the CO2 emissions dataset. The models learn the patterns and relationships within the data to make future predictions.
 
